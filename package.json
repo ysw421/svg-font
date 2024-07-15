@@ -1,24 +1,20 @@
 {
-    "name": "ilovecat",
-    "version": "1.0.0",
+    "name": "svg-font",
+    "version": "1.0.1",
     "type": "module",
-    "description": "Programmers 2020 Dev-Matching",
+    "description": "living font with svg",
     "main": "example.js",
     "scripts": {
-        "build": "babel src -d dist -w",
-        "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
-        "test": "jest"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/woohyeonjo/ilovecat.git"
+        "url": "git+https://github.com/ysw421/svg-font.git"
     },
-    "author": "nnm",
+    "author": "siwon yun",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/woohyeonjo/ilovecat/issues"
+        "url": "https://github.com/ysw421/svg-font/issues"
     },
-    "homepage": "https://github.com/woohyeonjo/ilovecat#readme",
     "dependencies": {
         "require": "^2.4.20"
     }
